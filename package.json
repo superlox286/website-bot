@@ -1,0 +1,12 @@
+{
+  "name": "mc-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "minecraft-server-util": "^5.4.4",
+    "mysql2": "^3.9.7"
+  }
+}
